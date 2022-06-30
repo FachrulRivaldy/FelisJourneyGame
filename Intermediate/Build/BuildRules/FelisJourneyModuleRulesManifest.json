@@ -1,0 +1,7 @@
+{
+	"SourceFiles": [
+		"E:\\UNREAL ENGINE\\FelisJourney\\Plugins\\discordrpc\\Source\\DiscordRpc\\DiscordRpc.Build.cs",
+		"E:\\UNREAL ENGINE\\FelisJourney\\Plugins\\discordrpc\\Source\\ThirdParty\\DiscordRpcLibrary\\DiscordRpcLibrary.Build.cs"
+	],
+	"EngineVersion": "4.27.1"
+}
